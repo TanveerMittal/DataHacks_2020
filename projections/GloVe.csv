@@ -1,0 +1,188 @@
+question,topic,x,y
+Amount of alcohol excise tax by beverage type (wine),Alcohol,-5.492805,16.46139
+Amount of alcohol excise tax by beverage type (beer),Alcohol,-5.4686503,16.336502
+Amount of alcohol excise tax by beverage type (distilled spirits),Alcohol,-5.370657,16.611343
+Obesity among adults aged >= 18 years,"Nutrition, Physical Activity, and Weight Status",1.6548138,0.45806167
+Hospitalization for heart failure among Medicare-eligible persons aged >= 65 years,Cardiovascular Disease,-4.2417417,-6.7920074
+Binge drinking frequency among adults aged >= 18 years who binge drink,Alcohol,9.880643,1.1714678
+Arthritis among adults aged >= 18 years who have diabetes,Arthritis,1.13257,-1.879516
+Foot examination among adults aged >= 18 years with diagnosed diabetes,Diabetes,0.27400455,-3.738427
+Current smoking among adults aged >= 18 years,Tobacco,1.3558172,3.4131694
+Chronic liver disease mortality,Alcohol,-7.368616,-13.532179
+Mortality from heart failure,Cardiovascular Disease,-10.255192,-11.136633
+Heavy drinking among adults aged >= 18 years,Alcohol,7.1716185,2.4079535
+Quit attempts in the past year among current smokers,Tobacco,1.4743057,16.303925
+Prevalence of sufficient sleep among adults aged >= 18 years,Overarching Conditions,2.4357214,2.865025
+Hospitalization for acute myocardial infarction,Cardiovascular Disease,-6.912939,-11.238644
+Poverty,Overarching Conditions,-1.8102232,3.3672132
+Influenza vaccination among noninstitutionalized adults aged >= 45 years with chronic obstructive pulmonary disease,Chronic Obstructive Pulmonary Disease,-2.3428254,-10.0685835
+Papanicolaou smear use among adult women aged 21-65 years,Cancer,6.8144917,-1.0195111
+Binge drinking prevalence among adults aged >= 18 years,Alcohol,9.189305,1.6887203
+Mammography use among women aged 50-74 years,Cancer,6.9022775,-0.15810484
+Mortality due to diabetes reported as any listed cause of death,Diabetes,-8.2182255,-5.803505
+Binge drinking intensity among adults aged >= 18 years who binge drink,Alcohol,9.891785,1.1675463
+Hospitalization for stroke,Cardiovascular Disease,-5.527506,-6.4337015
+Overweight or obesity among adults aged >= 18 years,"Nutrition, Physical Activity, and Weight Status",1.8469093,0.7516135
+Current smokeless tobacco use among adults aged >= 18 years,Tobacco,0.2860424,4.7437544
+High cholesterol prevalence among adults aged >= 18 years,Cardiovascular Disease,-0.7113027,0.1130531
+Cholesterol screening among adults aged >= 18 years,Cardiovascular Disease,-1.214924,0.34345555
+Hospitalizations for asthma,Asthma,-4.415208,-13.474913
+Physical inactivity among adults aged >= 18 years with arthritis,Arthritis,1.9445677,-2.4859948
+Healthy weight among adults aged >= 18 years,"Nutrition, Physical Activity, and Weight Status",2.690464,1.7069713
+Mortality from total cardiovascular diseases,Cardiovascular Disease,-9.765528,-12.866258
+Mortality with chronic obstructive pulmonary disease as underlying or contributing cause among adults aged >= 45 years,Chronic Obstructive Pulmonary Disease,-4.2027287,-9.573067
+Six or more teeth lost among adults aged >= 65 years,Oral Health,5.074872,1.0683718
+Fair or poor self-rated health status among adults aged >= 18 years,Overarching Conditions,4.549518,3.3086205
+Median daily frequency of fruit consumption among adults aged >= 18 years,"Nutrition, Physical Activity, and Weight Status",4.0302444,8.264552
+Premature mortality among adults aged 45-64 years,Overarching Conditions,3.0614736,0.08964287
+All teeth lost among adults aged >= 65 years,Oral Health,4.988845,1.0085992
+Arthritis among adults aged >= 18 years who are obese,Arthritis,1.8281969,-1.2928957
+Mortality with diabetic ketoacidosis reported as any listed cause of death,Diabetes,-8.15962,-5.814075
+Visits to dentist or dental clinic among adults aged >= 18 years,Oral Health,4.0115576,-3.5482907
+Recent activity limitation among adults aged >= 18 years,Overarching Conditions,2.2544332,4.969079
+Influenza vaccination among noninstitutionalized adults aged 18-64 years with diagnosed diabetes,Diabetes,0.52090526,-7.047076
+Emergency department visit rate for asthma,Asthma,-7.863553,-8.452843
+Arthritis among adults aged >= 18 years,Arthritis,1.594261,-0.83028597
+Fair or poor health among adults aged >= 18 years with arthritis,Arthritis,4.048239,2.9050822
+Diabetes prevalence among women aged 18-44 years,Diabetes,0.3073975,1.6092501
+Current lack of health insurance among adults aged 18-64 years,Overarching Conditions,4.178527,4.459393
+Adults with diagnosed diabetes aged >= 18 years who have taken a diabetes self-management course,Diabetes,-2.2975235,-2.4553344
+No tooth loss among adults aged 18-64 years,Oral Health,4.5306687,0.8892189
+Amount of tobacco product excise tax,Tobacco,-6.266569,16.217052
+Prevalence of diagnosed diabetes among adults aged >= 18 years,Diabetes,0.10308363,-1.2611742
+Influenza vaccination among noninstitutionalized adults aged 18-64 years with asthma,Asthma,1.1859512,-8.044657
+Asthma mortality rate,Asthma,-10.649507,-14.182816
+Prevalence of current smoking among adults >= 18 with diagnosed chronic obstructive pulmonary disease,Chronic Obstructive Pulmonary Disease,-4.4067755,-11.408703
+Mortality from diseases of the heart,Cardiovascular Disease,-10.654412,-10.979146
+Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis,Chronic Obstructive Pulmonary Disease,-6.1148334,-9.94057
+Binge drinking prevalence among women aged 18-44 years,Alcohol,8.504458,1.881488
+Heavy drinking among women aged 18-44 years,Alcohol,7.110334,2.5179846
+Dilated eye examination among adults aged >= 18 years with diagnosed diabetes,Diabetes,0.17988747,-4.1562314
+Current asthma prevalence among adults aged >= 18 years,Asthma,0.54358006,0.24417621
+Hospitalization for chronic obstructive pulmonary disease as any diagnosis among Medicare-eligible persons aged >= 65 years,Chronic Obstructive Pulmonary Disease,-4.733904,-8.049913
+Alcohol use among youth,Alcohol,-4.3613462,6.511363
+Recent Papanicolaou smear use among women aged 21-44 years,Cancer,6.8651237,-1.082005
+Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis among Medicare-eligible persons aged >= 65 years,Chronic Obstructive Pulmonary Disease,-4.7420535,-7.8860106
+Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years with asthma,Asthma,2.0430794,-7.567313
+Per capita alcohol consumption among persons aged >= 14 years,Alcohol,3.6648035,7.3032274
+Prevalence of chronic obstructive pulmonary disease among adults >= 45 years,Chronic Obstructive Pulmonary Disease,-3.1992662,-11.136745
+Self-rated health status among women aged 18-44 years,Overarching Conditions,4.9757867,3.6630619
+Taking medicine for high blood pressure control among adults aged >= 18 years with high blood pressure,Cardiovascular Disease,5.980243,6.5207357
+States that allow stronger local tobacco control and prevention laws,Tobacco,-1.9570463,13.870659
+Sale of cigarette packs,Tobacco,-5.484378,14.778063
+Mortality from cerebrovascular disease (stroke),Cardiovascular Disease,-8.771917,-13.037929
+Prevalence of depressive disorders among adults aged >= 18 years with diagnosed diabetes,Diabetes,-0.49444827,-2.8276436
+Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years with asthma,Asthma,1.9616637,-8.2397585
+Mortality from coronary heart disease,Cardiovascular Disease,-8.64084,-12.786113
+High school completion among adults aged 18-24 years,Overarching Conditions,8.281471,5.2675323
+Glycosylated hemoglobin measurement among adults aged >= 18 years with diagnosed diabetes,Diabetes,0.80919963,-5.2420683
+Meeting aerobic physical activity guidelines for substantial health benefits among adults aged >= 18 years,"Nutrition, Physical Activity, and Weight Status",0.43940184,9.506787
+Current smokeless tobacco use among youth,Tobacco,-3.6170628,6.358673
+Cigarette smoking before pregnancy,Tobacco,-6.242047,5.5009847
+"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",Cancer,-0.96453625,-5.5632124
+Overweight or obesity among women aged 18-44 years,"Nutrition, Physical Activity, and Weight Status",1.3966411,1.5146521
+Awareness of high blood pressure among adults aged >= 18 years,Cardiovascular Disease,5.7842584,5.7730346
+Activity limitation due to arthritis among adults aged >= 18 years who have doctor-diagnosed arthritis,Arthritis,-2.3449733,-3.5312479
+Recent physically unhealthy days among adults aged >= 18 years,Overarching Conditions,2.522031,4.1252766
+Prevalence of activity limitation among adults >= 45 years with diagnosed chronic obstructive pulmonary disease,Chronic Obstructive Pulmonary Disease,-3.8202636,-10.520247
+Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years with diagnosed diabetes,Diabetes,1.1243854,-7.0344133
+Influenza vaccination among noninstitutionalized adults aged >= 65 years with a history of coronary heart disease or stroke,Cardiovascular Disease,-2.4213767,-6.489567
+Current cigarette smoking among women aged 18-44 years,Tobacco,0.6370401,3.952177
+Hospitalization with diabetes as a listed diagnosis,Diabetes,-6.592953,-6.623894
+Current health care coverage among women aged 18-44 years,Overarching Conditions,4.4070992,4.5124826
+Mortality with chronic obstructive pulmonary disease as underlying cause among adults aged >= 45 years,Chronic Obstructive Pulmonary Disease,-3.92008,-9.76205
+Arthritis among adults aged >= 18 years who have heart disease,Arthritis,0.7060098,-2.417913
+Hospitalization for chronic obstructive pulmonary disease as any diagnosis,Chronic Obstructive Pulmonary Disease,-6.2078586,-10.4163885
+Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,Arthritis,-3.2993786,-2.5497453
+Median daily frequency of vegetable consumption among adults aged >= 18 years,"Nutrition, Physical Activity, and Weight Status",4.0548854,8.30898
+Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years who smoke,Tobacco,3.037422,-7.7249527
+"Invasive cancer of the cervix, incidence",Cancer,-13.7398815,-8.008029
+Asthma prevalence among women aged 18-44 years,Asthma,0.26218283,1.5984707
+Binge drinking prevalence among youth,Alcohol,10.858956,1.6915331
+Severe joint pain due to arthritis among adults aged >= 18 years who have doctor-diagnosed arthritis,Arthritis,-2.9026947,-3.726447
+Gini Index of income inequality,Overarching Conditions,3.5716257,10.287888
+Prevalence of chronic obstructive pulmonary disease among adults >= 18,Chronic Obstructive Pulmonary Disease,-3.3557458,-11.82428
+No leisure-time physical activity among adults aged >= 18 years,"Nutrition, Physical Activity, and Weight Status",2.1323905,5.7826223
+Current cigarette smoking among youth,Tobacco,-3.6809428,6.001756
+Visits to dentist or dental clinic among adults aged >= 18 years with diagnosed diabetes,Diabetes,3.6547966,-3.724742
+Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years who smoke,Tobacco,2.9746284,-7.306355
+Influenza vaccination among noninstitutionalized adults aged >= 65 years with asthma,Asthma,0.80641913,-8.404457
+Pneumococcal vaccination among noninstitutionalized adults aged >= 45 years with chronic obstructive pulmonary disease,Chronic Obstructive Pulmonary Disease,-1.9975526,-10.2728195
+Obesity among high school students,"Nutrition, Physical Activity, and Weight Status",7.5652966,13.906071
+Influenza vaccination among noninstitutionalized adults aged >= 65 years with diagnosed diabetes,Diabetes,0.23030551,-7.594009
+"Cancer of the female breast, mortality",Cancer,-12.187456,-8.432578
+"Invasive cancer (all sites combined), mortality",Cancer,-14.411135,-6.1745024
+Prevalence of activity limitation among adults >= 18 with diagnosed chronic obstructive pulmonary disease,Chronic Obstructive Pulmonary Disease,-3.9064784,-11.081349
+Alcohol use before pregnancy,Alcohol,-6.213653,5.7162614
+Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years with a history of coronary heart disease,Cardiovascular Disease,-1.53821,-6.5991063
+Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years with a history of coronary heart disease,Cardiovascular Disease,-1.8078325,-6.871064
+Prevalence of current smoking among adults >= 45 years with diagnosed chronic obstructive pulmonary disease,Chronic Obstructive Pulmonary Disease,-4.4874854,-10.742227
+Influenza vaccination among noninstitutionalized adults aged 18-64 years with a history of coronary heart disease or stroke,Cardiovascular Disease,-2.176872,-6.250232
+"Cancer of the colon and rectum (colorectal), incidence",Cancer,-14.23953,-9.624594
+Amputation of a lower extremity attributable to diabetes,Diabetes,-9.464391,-5.913913
+Secondary schools that offer less healthy foods as competitive foods,"Nutrition, Physical Activity, and Weight Status",2.4947784,12.927055
+State child care regulation supports onsite breastfeeding,"Nutrition, Physical Activity, and Weight Status",-3.657491,10.457566
+Participation in daily school physical education classes among high school students,"Nutrition, Physical Activity, and Weight Status",6.079019,13.006527
+Oral health services at Federally Qualified Health Centers,Oral Health,-4.9554853,10.911532
+"Invasive cancer of the female breast, incidence",Cancer,-12.881727,-8.012125
+Prevalence of high blood pressure among adults aged >= 18 years with diagnosed diabetes,Diabetes,-0.891601,-1.6751142
+Prevalence of pre-pregnancy diabetes,Diabetes,-8.288116,-2.1626253
+Life expectancy at age 65 years,Overarching Conditions,-2.8108485,1.6600934
+Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years with diagnosed diabetes,Diabetes,1.5047975,-6.7626386
+Work limitation due to arthritis among adults aged 18-64 years who have doctor-diagnosed arthritis,Arthritis,-2.2591202,-3.4659128
+Secondary schools that allow students to purchase sports drinks,"Nutrition, Physical Activity, and Weight Status",2.6053953,13.923157
+Meeting aerobic physical activity guidelines for substantial health benefits and for muscle-strengthening activity among adults aged >= 18 years,"Nutrition, Physical Activity, and Weight Status",0.3886806,9.880947
+"Cancer of the oral cavity and pharynx, mortality",Cancer,-15.275614,-8.437385
+"Invasive cancer (all sites combined), incidence",Cancer,-14.389808,-6.2033896
+Percent tobacco revenue to fund at CDC recommended level,Tobacco,-3.2466726,12.632705
+Prevalence of high cholesterol among adults aged >= 18 years with diagnosed diabetes,Diabetes,-0.71966076,-1.1943969
+Census tracts with healthier food retailers within ½ mile of boundary,"Nutrition, Physical Activity, and Weight Status",-0.49421632,15.139713
+"Invasive melanoma, incidence",Cancer,-12.987958,-6.6922174
+"Cancer of the prostate, mortality",Cancer,-12.987078,-9.208491
+Emergency department visit rate for chronic obstructive pulmonary disease as any diagnosis,Chronic Obstructive Pulmonary Disease,-6.966955,-9.055247
+Preventive dental care before pregnancy,Oral Health,-5.8211055,9.687508
+Presence of regulations pertaining to serving fruit in early care and education settings,"Nutrition, Physical Activity, and Weight Status",-0.56412977,13.175336
+High school completion among women aged 18-44 years,Overarching Conditions,8.245721,5.2457333
+"Cancer of the female cervix, mortality",Cancer,-12.013917,-8.491412
+"Invasive cancer of the oral cavity or pharynx, incidence",Cancer,-15.083784,-8.188256
+Awareness of high blood pressure among women aged 18-44 years,Cardiovascular Disease,5.8980293,5.605807
+Live births occurring at Baby Friendly Facilities,"Nutrition, Physical Activity, and Weight Status",-1.8611803,8.757348
+Meeting aerobic physical activity guidelines for additional and more extensive health benefits among adults aged >= 18 years,"Nutrition, Physical Activity, and Weight Status",0.34334022,9.654492
+"Proportion of the population protected by a comprehensive smoke-free policy prohibiting smoking in all indoor areas of workplaces and public places, including restaurants and bars",Tobacco,-0.18272077,14.032669
+Infants breastfed at 6 months,"Nutrition, Physical Activity, and Weight Status",7.4709744,-4.0849957
+Life expectancy at birth,Overarching Conditions,5.6901603,-5.53365
+"Cancer of the colon and rectum (colorectal), mortality",Cancer,-14.126977,-9.67619
+Healthy weight among high school students,"Nutrition, Physical Activity, and Weight Status",6.953879,13.833255
+States with strong polices that require retail licenses to sell tobacco products,Tobacco,-2.5513015,14.086118
+Pre-pregnancy hypertension,Cardiovascular Disease,-8.73433,-2.0440485
+Emergency department visit rate for chronic obstructive pulmonary disease as first-listed diagnosis,Chronic Obstructive Pulmonary Disease,-6.9243283,-8.863694
+"Cancer of the lung and bronchus, incidence",Cancer,-12.420812,-10.08866
+"Melanoma, mortality",Cancer,-13.7482815,-11.375009
+Mean maternity practices in infant nutrition care (mPINC) score,"Nutrition, Physical Activity, and Weight Status",-3.3671367,10.132389
+Health insurance coverage before pregnancy,Overarching Conditions,-5.815321,10.123353
+Overweight or obesity among high school students,"Nutrition, Physical Activity, and Weight Status",7.7155585,14.120547
+Television viewing among high school students,"Nutrition, Physical Activity, and Weight Status",7.12261,12.378346
+"Cancer of the lung and bronchus, mortality",Cancer,-12.338264,-10.068469
+Secondary schools that allow students to purchase soda or fruit drinks,"Nutrition, Physical Activity, and Weight Status",2.5163958,13.977112
+Median daily frequency of vegetable consumption among high school students,"Nutrition, Physical Activity, and Weight Status",4.8899074,10.9352665
+Local authority to regulate alcohol outlet density,Alcohol,-1.5557917,15.888365
+Preventive dental visits among children and adolescents aged 1-17 years,Oral Health,4.804157,-2.3752453
+Prevalence of gestational diabetes,Diabetes,-7.784409,-2.252621
+Presence of regulations pertaining to avoiding sugar in early care and education settings,"Nutrition, Physical Activity, and Weight Status",-0.9840014,12.900483
+Secondary schools that allow community-sponsored use of physical activity facilities by youth outside of normal school hours,"Nutrition, Physical Activity, and Weight Status",1.0224735,12.800403
+Meeting aerobic physical activity guidelines among high school students,"Nutrition, Physical Activity, and Weight Status",4.6466885,13.050807
+"Number of farmers markets per 100,000 residents","Nutrition, Physical Activity, and Weight Status",5.4322524,8.938394
+Farmers markets that accept Supplemental Nutrition Assistance Program (SNAP) benefits,"Nutrition, Physical Activity, and Weight Status",-1.7997581,11.223011
+Soda consumption among high school students,"Nutrition, Physical Activity, and Weight Status",6.267092,14.077714
+Computer use among high school students,"Nutrition, Physical Activity, and Weight Status",6.854755,12.845894
+Receiving formula supplementation within the first 2 days of life among breastfed infants,"Nutrition, Physical Activity, and Weight Status",-0.61024547,8.187431
+"Invasive cancer of the prostate, incidence",Cancer,-13.562768,-8.49455
+Commercial host (dram shop) liability laws,Alcohol,-2.9823928,15.092508
+Secondary schools that have a comprehensive tobacco-free school policy in place,Tobacco,1.146391,13.341945
+Median daily frequency of fruit consumption among high school students,"Nutrition, Physical Activity, and Weight Status",4.910125,10.955542
+Presence of regulations pertaining to screen time in early care and education settings,"Nutrition, Physical Activity, and Weight Status",-0.4158133,12.573149
+Farmers markets that accept Women and Infant Children (WIC) farmers market nutrition program coupons,"Nutrition, Physical Activity, and Weight Status",-1.7382268,11.214849
+Population served by community water systems that receive optimally fluoridated drinking water,Oral Health,0.5999417,14.885074
+Presence of regulations pertaining to serving vegetables in early care and education settings,"Nutrition, Physical Activity, and Weight Status",-0.5433721,13.061405
+Dental visits among children and adolescents aged 1-17 years,Oral Health,4.8129015,-2.3094163
+Poverty among women aged 18-44 years,Overarching Conditions,-0.92758095,2.9364614
