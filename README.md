@@ -3,6 +3,16 @@
 ### Team Name: Beeg Data
 ### Team Members: [Tanveer Mittal](https://github.com/TanveerMittal) & [Ayush More](https://github.com/ayushmore)
 
+# Table of Contents:
+
+  1. [Data Cleaning & Pre-processing](#I.-data-cleaning-&-pre-processing:)
+
+  2. [Data Visualization](#II.-data-visualization:)
+
+  3. [Modeling & Analysis](#III.-modeling-&-analysis:)
+
+  4. [Conclusion](#IV.-conclusion:)
+
 # I. Data Cleaning & Pre-processing:
 * **NLP Visualizations**: To visualize the questions in this dataset, we cleaned the data by only keeping each unique question and its corresponding topic label. Since this section of our analysis was done on the natural language in the dataset we only needed these 2 fields for the 203 unique questions in our dataset to build a corpus.
 
