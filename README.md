@@ -1,5 +1,5 @@
 # The Natural Language Processing of Chronic Illness Survey questions
-### 1st place submission for UCSD DataHacks 2020
+### First place submission for UCSD DataHacks 2020
 ### Team Name: Beeg Data
 ### Team Members: [Tanveer Mittal](https://github.com/TanveerMittal) & [Ayush More](https://github.com/ayushmore)
 
@@ -67,19 +67,16 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our observed population test statistic was 0.176, which was obtained from the difference of mean proportions from states without strong policies and states with strong policies relative to underage smokeless tobacco users. Given the distribution of the 1000 simulations, we observed that 43.4% of the simulated shuffled mean proportions were above our observed population test statistic. This also represents our p-value, and because it is not significant (we define our significance level at 5%), we conclude that we fail to reject the null hypothesis. Below are the distributions for the other null hypotheses and the p-value associated with it:
 
   2. States with strict policies that require retail license laws to sell tobacco have the same proportion of current underage cigarette users as those states without the strong policies.
-
     * P-Value: 0.430
 
     ![Hypothesis 2](plots/null_hypothesis_2.png)
 
   3. States that allow stronger local tobacco control and prevention laws have the same proportion of current underage smokeless tobacco users as those states without the stronger control and laws.
-
     * P-Value: 0.363
 
     ![Hypothesis 3](plots/null_hypothesis_3.png)
 
   4. States that allow stronger local tobacco control and prevention laws have the same proportion of current underage cigarette users as those states without the stronger control and laws
-
     * P-Value: 0.154
 
     ![Hypothesis 4](plots/null_hypothesis_4.png)
