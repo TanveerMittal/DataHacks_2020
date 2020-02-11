@@ -1,4 +1,4 @@
-# The Natural Language Processing of Chronic Illness Survey questions
+# The Natural Language Processing of Chronic Illness Survey Questions
 ### First place submission for UCSD DataHacks 2020
 ### Team Name: Beeg Data
 ### Team Members: [Tanveer Mittal](https://github.com/TanveerMittal) & [Ayush More](https://github.com/ayushmore)
