@@ -31,7 +31,7 @@
   * Hover over points to see what survey questions and topics they correspond to
 
   * Select topics on the scatter plots to highlight points belonging to that topic
-    * Observe how our methods were able to capture the similarity of the natural language used survey questions regarding cancer or nutrition questions specifically about high school students
+    * Observe how our methods were able to capture the similarity of the natural language used in survey questions regarding cancer or nutrition questions specifically about high school students
 
   * Select different topics to see the corresponding word clouds
 
