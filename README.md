@@ -54,7 +54,7 @@
 
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After training our model for the first time, we noticed that the model was drastically overfitting to our training set. Our training set accuracy was exactly 100% while our test set accuracy was <60%. To solve this issue, we implemented a variety of techniques. The first thing we did was implement L2 regularization on the softmax dense layer. L2 regularization penalizes larger weights during the training process and because of this our model did not learn to improperly skew the softmax probability distribution that our model outputs. After that, we also applied dropout on our LSTM cell so that our model learns not to rely too heavily on certain features of the cell states from previous timesteps and the word embeddings. To collect further data, we wrote a custom Tensorflow callback that would evaluate our model on the test set after each epoch and store them in a list. This allowed us to then plot the training accuracies and test accuracies as the model was training.
 
-  ![Loss plot](plots/LSTM_training_loss.png)
+  ![Loss plot](plots/LSTM_accuracy.png)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After seeing this plot, we decided to extend the functionality of this custom callback, by storing the maximum test accuracy achieved during and the corresponding weights that achieved that performance. As you can see below, our callback was able to successfully save the best parameters.
 
