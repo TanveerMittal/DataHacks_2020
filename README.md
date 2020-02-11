@@ -4,11 +4,11 @@
 ### Team Members: [Tanveer Mittal](https://github.com/TanveerMittal) & [Ayush More](https://github.com/ayushmore)
 
 # Table of Contents:
- * [Data Cleaning &amp; Pre-processing](#i-data-cleaning--pre-processing)
+ 1. [Data Cleaning &amp; Pre-processing](#i-data-cleaning--pre-processing)
 
- * [Data Visualization](#ii-data-visualization)
- * [Modeling &amp; Analysis](#iii-modeling--analysis)
- * [Conclusion](#iv-conclusion)
+ 2. [Data Visualization](#ii-data-visualization)
+ 3. [Modeling &amp; Analysis](#iii-modeling--analysis)
+ 4. [Conclusion](#iv-conclusion)
 
 
 # I. Data Cleaning & Pre-processing:
