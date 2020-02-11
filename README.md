@@ -5,13 +5,13 @@
 
 # Table of Contents:
 
-  1. [Data Cleaning & Pre-processing](#I.-data-cleaning-&-pre-processing:)
+  1. [Data Cleaning & Pre-processing](#I.%20data%20cleaning%20&%20pre-processing:)
 
-  2. [Data Visualization](#II.-data-visualization:)
+  2. [Data Visualization](#II.%20data%20visualization:)
 
-  3. [Modeling & Analysis](#III.-modeling-&-analysis:)
+  3. [Modeling & Analysis](#III.%20modeling%20&%20analysis:)
 
-  4. [Conclusion](#IV.-conclusion:)
+  4. [Conclusion](#IV.%20conclusion:)
 
 # I. Data Cleaning & Pre-processing:
 * **NLP Visualizations**: To visualize the questions in this dataset, we cleaned the data by only keeping each unique question and its corresponding topic label. Since this section of our analysis was done on the natural language in the dataset we only needed these 2 fields for the 203 unique questions in our dataset to build a corpus.
